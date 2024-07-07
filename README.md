@@ -32,5 +32,6 @@ In this repo. i'll be uploading all the contents and projects as i learn machine
 ---
 As of now, i already have an idea of first three steps so i'll start from first course itself.
 
-i.e [MIT intro to ML](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) 
+i.e [MIT intro to ML](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+ 
 ----
