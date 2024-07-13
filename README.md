@@ -22,16 +22,20 @@ In this repo. i'll be uploading all the contents and projects as i learn machine
 + Pandas
     + [W3SCHOOL](https://www.w3schools.com/python/pandas/default.asp) 
 ##### 4. Courses 🎓
-+ Introduction To Machine Learning
-    + [MIT Course](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
++ Machine Learning Specialization Course
+    + [SuperVised machine learning: Regression & Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction) no need to buy just audit the course 😏.
+    + [Assignments and quiz](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main) 👈 all the assignment and quizes are here.
 + Neural Networks
+    + [Advanced Learning Algorithm](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)no need to buy just audit the course 😏.
     + [Playlist](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-+ Deep Learning Specialization (just videos)
-    + [Course Content](https://github.com/amanchadha/coursera-deep-learning-specialization)
-    + [Videos](https://www.youtube.com/playlist?list=PLpFsSf5Dm-pd5d3rjNtIXUHT-v7bdaEIe)
+    + [Assignments and quiz](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main) 👈 all the assignment and quizes are here.
++ Un-supervised learning
+    + [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)no need to buy just audit the course 😏.
+    + [Assignments and quiz](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main) 👈 all the assignment and quizes are here.
+    
 ---
 As of now, i already have an idea of first three steps so i'll start from first course itself.
 
-i.e [MIT intro to ML](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
+i.e [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
  
 ----
